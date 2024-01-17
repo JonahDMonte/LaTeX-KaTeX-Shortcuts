@@ -9,4 +9,4 @@ Fraction: Alt+n\
 Piecewise Function/Cases: Alt+p\
 New Math Text Block: Alt+m\
 New Inline Math Text Block: Alt+Shift+m\
-Alt+c: Autocorrect (While your typing cursor is over a word that is underlined in red, use this shortcut to automatically correct it to the first option that would appear in the right-click menu.)\
+Alt+c: Autocorrect (While your typing cursor is over a word that is underlined in red, use this shortcut to automatically correct it to the first option that would appear in the right-click menu.)
